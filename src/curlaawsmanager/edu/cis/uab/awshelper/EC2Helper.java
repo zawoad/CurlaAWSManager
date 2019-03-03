@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package curlaawsmanager.edu.cis.uab.awshelper;
 
 import cis.uab.edu.spamurlfetcher.util.AmazonCredentials;
@@ -27,32 +23,25 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-/**
- *
- * @author zawoad
- */
+
 public class EC2Helper {
 
     private static EC2Helper ec2Instance;
 
     private AmazonEC2Client ec2Clinet;
 
-    // private  List<String> notAnalyzer;
+    private  List<String> notAnalyzer;
     private EC2Helper() {
         ec2Clinet = new AmazonEC2Client(new AmazonCredentials());
         Region useast1 = Region.getRegion(Regions.US_EAST_1);
         //ec2Clinet.setEndpoint("us-east-1c");
-        ec2Clinet.setRegion(useast1);
-//        notAnalyzer = new ArrayList<String>();
-//        notAnalyzer.add("i-2a348cc4"); //manager
-//        notAnalyzer.add("i-dc9af337"); //db
-//        
+        ec2Clinet.setRegion(useast1);        
     }
 
-//    public List<String> getOtherInstance()
-//    {
-//        return notAnalyzer;
-//    }
+   public List<String> getOtherInstance()
+   {
+       return notAnalyzer;
+   }
     public static EC2Helper EC2Instance() {
         if (ec2Instance == null) {
             ec2Instance = new EC2Helper();
@@ -68,13 +57,6 @@ public class EC2Helper {
         for (Reservation reservation : listEC2Reservations) {
             instances.addAll(reservation.getInstances());
         }
-//
-//       for(Instance in : instances)
-//       {
-//           System.out.println("pubip="+ in.getPublicIpAddress());
-//           System.out.println("id="+ in.getInstanceId());
-//
-//       }
 
         return instances;
     }
