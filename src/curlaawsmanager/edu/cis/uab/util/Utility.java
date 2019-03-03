@@ -10,12 +10,6 @@ public class Utility {
     public static String getDomainName(String url) throws URISyntaxException {
 
         if (url.startsWith("http")) {
-//			URI uri = new URI(url);
-//			String domain = uri.getHost();
-//                        if(domain != null) // not a regular domain structure
-//                            return domain.startsWith("www.") ? domain.substring(4) : domain;
-//                        else
-//                        { //handle exceptional domain
             String arr[] = url.split("/");
             System.out.println("top:" + InternetDomainName.from(arr[2]).topPrivateDomain().toString());
             return InternetDomainName.from(arr[2]).toString();
