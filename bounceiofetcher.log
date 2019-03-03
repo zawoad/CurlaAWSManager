@@ -1,0 +1,1769 @@
+[I]:bucketName = bounce-protect-customer-data
+[I]:connection created..
+[I]:Downloading File..
+[I]:v1.2/2014/10/31/csv__2014-10-31_01-30-00.gz downloaded from s3
+[I]:starting loaders
+[I]:---------------------------------------------
+[I]:1000 messages read.
+[I]:1058Distinct URL found.
+[I]:0Duplicate URL found.
+[I]:---------------------------------------------
+[I]:2000 messages read.
+[I]:2117Distinct URL found.
+[I]:39Duplicate URL found.
+[I]:---------------------------------------------
+[I]:3000 messages read.
+[I]:2938Distinct URL found.
+[I]:122Duplicate URL found.
+[I]:---------------------------------------------
+[I]:4000 messages read.
+[I]:3966Distinct URL found.
+[I]:165Duplicate URL found.
+[I]:---------------------------------------------
+[I]:5000 messages read.
+[I]:4915Distinct URL found.
+[I]:288Duplicate URL found.
+[I]:---------------------------------------------
+[I]:6000 messages read.
+[I]:5591Distinct URL found.
+[I]:325Duplicate URL found.
+[I]:---------------------------------------------
+[I]:7000 messages read.
+[I]:7042Distinct URL found.
+[I]:414Duplicate URL found.
+[I]:---------------------------------------------
+[I]:8000 messages read.
+[I]:7990Distinct URL found.
+[I]:470Duplicate URL found.
+[I]:---------------------------------------------
+[I]:9000 messages read.
+[I]:9220Distinct URL found.
+[I]:682Duplicate URL found.
+[I]:---------------------------------------------
+[I]:10000 messages read.
+[I]:10364Distinct URL found.
+[I]:831Duplicate URL found.
+[I]:---------------------------------------------
+[I]:11000 messages read.
+[I]:11466Distinct URL found.
+[I]:939Duplicate URL found.
+[I]:---------------------------------------------
+[I]:12000 messages read.
+[I]:12763Distinct URL found.
+[I]:1017Duplicate URL found.
+[I]:---------------------------------------------
+[I]:13000 messages read.
+[I]:13795Distinct URL found.
+[I]:1125Duplicate URL found.
+[I]:---------------------------------------------
+[I]:14000 messages read.
+[I]:14960Distinct URL found.
+[I]:1227Duplicate URL found.
+[I]:---------------------------------------------
+[I]:15000 messages read.
+[I]:16153Distinct URL found.
+[I]:1352Duplicate URL found.
+[I]:---------------------------------------------
+[I]:16000 messages read.
+[I]:17375Distinct URL found.
+[I]:1489Duplicate URL found.
+[I]:---------------------------------------------
+[I]:17000 messages read.
+[I]:18485Distinct URL found.
+[I]:1690Duplicate URL found.
+[I]:---------------------------------------------
+[I]:18000 messages read.
+[I]:19981Distinct URL found.
+[I]:1944Duplicate URL found.
+[I]:---------------------------------------------
+[I]:19000 messages read.
+[I]:21214Distinct URL found.
+[I]:2075Duplicate URL found.
+[I]:---------------------------------------------
+[I]:20000 messages read.
+[I]:22668Distinct URL found.
+[I]:2192Duplicate URL found.
+[I]:---------------------------------------------
+[I]:21000 messages read.
+[I]:23978Distinct URL found.
+[I]:2506Duplicate URL found.
+[I]:---------------------------------------------
+[I]:22000 messages read.
+[I]:24636Distinct URL found.
+[I]:2649Duplicate URL found.
+[I]:---------------------------------------------
+[I]:23000 messages read.
+[I]:25684Distinct URL found.
+[I]:2813Duplicate URL found.
+[I]:---------------------------------------------
+[I]:24000 messages read.
+[I]:26849Distinct URL found.
+[I]:2949Duplicate URL found.
+[I]:---------------------------------------------
+[I]:25000 messages read.
+[I]:28384Distinct URL found.
+[I]:3089Duplicate URL found.
+[I]:---------------------------------------------
+[I]:26000 messages read.
+[I]:29890Distinct URL found.
+[I]:3227Duplicate URL found.
+[I]:---------------------------------------------
+[I]:27000 messages read.
+[I]:30725Distinct URL found.
+[I]:3307Duplicate URL found.
+[I]:---------------------------------------------
+[I]:28000 messages read.
+[I]:31874Distinct URL found.
+[I]:3597Duplicate URL found.
+[I]:---------------------------------------------
+[I]:29000 messages read.
+[I]:32732Distinct URL found.
+[I]:3759Duplicate URL found.
+[I]:---------------------------------------------
+[I]:30000 messages read.
+[I]:33851Distinct URL found.
+[I]:3893Duplicate URL found.
+[I]:---------------------------------------------
+[I]:31000 messages read.
+[I]:34868Distinct URL found.
+[I]:4021Duplicate URL found.
+[I]:---------------------------------------------
+[I]:32000 messages read.
+[I]:35977Distinct URL found.
+[I]:4140Duplicate URL found.
+[I]:---------------------------------------------
+[I]:33000 messages read.
+[I]:36913Distinct URL found.
+[I]:4340Duplicate URL found.
+[I]:---------------------------------------------
+[I]:34000 messages read.
+[I]:37782Distinct URL found.
+[I]:4463Duplicate URL found.
+[I]:---------------------------------------------
+[I]:35000 messages read.
+[I]:38662Distinct URL found.
+[I]:4577Duplicate URL found.
+[I]:---------------------------------------------
+[I]:36000 messages read.
+[I]:39873Distinct URL found.
+[I]:4661Duplicate URL found.
+[I]:---------------------------------------------
+[I]:37000 messages read.
+[I]:41097Distinct URL found.
+[I]:4764Duplicate URL found.
+[I]:---------------------------------------------
+[I]:38000 messages read.
+[I]:42259Distinct URL found.
+[I]:4880Duplicate URL found.
+[I]:---------------------------------------------
+[I]:39000 messages read.
+[I]:43439Distinct URL found.
+[I]:5058Duplicate URL found.
+[I]:---------------------------------------------
+[I]:40000 messages read.
+[I]:44575Distinct URL found.
+[I]:5160Duplicate URL found.
+[I]:---------------------------------------------
+[I]:41000 messages read.
+[I]:46009Distinct URL found.
+[I]:5293Duplicate URL found.
+[I]:---------------------------------------------
+[I]:42000 messages read.
+[I]:47211Distinct URL found.
+[I]:5407Duplicate URL found.
+[I]:---------------------------------------------
+[I]:43000 messages read.
+[I]:48425Distinct URL found.
+[I]:5718Duplicate URL found.
+[I]:---------------------------------------------
+[I]:44000 messages read.
+[I]:49965Distinct URL found.
+[I]:5811Duplicate URL found.
+[I]:---------------------------------------------
+[I]:45000 messages read.
+[I]:53496Distinct URL found.
+[I]:5915Duplicate URL found.
+[I]:---------------------------------------------
+[I]:46000 messages read.
+[I]:55740Distinct URL found.
+[I]:6064Duplicate URL found.
+[I]:---------------------------------------------
+[I]:47000 messages read.
+[I]:57779Distinct URL found.
+[I]:6143Duplicate URL found.
+[I]:---------------------------------------------
+[I]:48000 messages read.
+[I]:59439Distinct URL found.
+[I]:6289Duplicate URL found.
+[I]:---------------------------------------------
+[I]:49000 messages read.
+[I]:61178Distinct URL found.
+[I]:6394Duplicate URL found.
+[I]:---------------------------------------------
+[I]:50000 messages read.
+[I]:62839Distinct URL found.
+[I]:6504Duplicate URL found.
+[I]:---------------------------------------------
+[I]:51000 messages read.
+[I]:64558Distinct URL found.
+[I]:6689Duplicate URL found.
+[I]:---------------------------------------------
+[I]:52000 messages read.
+[I]:66359Distinct URL found.
+[I]:6820Duplicate URL found.
+[I]:---------------------------------------------
+[I]:53000 messages read.
+[I]:67876Distinct URL found.
+[I]:7119Duplicate URL found.
+[I]:---------------------------------------------
+[I]:54000 messages read.
+[I]:69769Distinct URL found.
+[I]:7312Duplicate URL found.
+[I]:---------------------------------------------
+[I]:55000 messages read.
+[I]:71305Distinct URL found.
+[I]:7410Duplicate URL found.
+[I]:---------------------------------------------
+[I]:56000 messages read.
+[I]:73155Distinct URL found.
+[I]:7792Duplicate URL found.
+[I]:---------------------------------------------
+[I]:57000 messages read.
+[I]:74822Distinct URL found.
+[I]:7901Duplicate URL found.
+[I]:---------------------------------------------
+[I]:58000 messages read.
+[I]:75723Distinct URL found.
+[I]:8021Duplicate URL found.
+[I]:---------------------------------------------
+[I]:59000 messages read.
+[I]:76651Distinct URL found.
+[I]:8164Duplicate URL found.
+[I]:---------------------------------------------
+[I]:60000 messages read.
+[I]:77915Distinct URL found.
+[I]:8248Duplicate URL found.
+[I]:---------------------------------------------
+[I]:61000 messages read.
+[I]:79303Distinct URL found.
+[I]:8375Duplicate URL found.
+[I]:---------------------------------------------
+[I]:62000 messages read.
+[I]:80177Distinct URL found.
+[I]:8499Duplicate URL found.
+[I]:---------------------------------------------
+[I]:63000 messages read.
+[I]:80996Distinct URL found.
+[I]:8854Duplicate URL found.
+[I]:---------------------------------------------
+[I]:64000 messages read.
+[I]:82030Distinct URL found.
+[I]:9060Duplicate URL found.
+[I]:---------------------------------------------
+[I]:65000 messages read.
+[I]:83420Distinct URL found.
+[I]:9387Duplicate URL found.
+[I]:---------------------------------------------
+[I]:66000 messages read.
+[I]:84751Distinct URL found.
+[I]:9492Duplicate URL found.
+[I]:---------------------------------------------
+[I]:67000 messages read.
+[I]:85824Distinct URL found.
+[I]:9744Duplicate URL found.
+[I]:---------------------------------------------
+[I]:68000 messages read.
+[I]:87135Distinct URL found.
+[I]:10048Duplicate URL found.
+[I]:---------------------------------------------
+[I]:69000 messages read.
+[I]:88733Distinct URL found.
+[I]:10328Duplicate URL found.
+[I]:---------------------------------------------
+[I]:70000 messages read.
+[I]:89938Distinct URL found.
+[I]:10534Duplicate URL found.
+[I]:---------------------------------------------
+[I]:71000 messages read.
+[I]:91064Distinct URL found.
+[I]:10677Duplicate URL found.
+[I]:---------------------------------------------
+[I]:72000 messages read.
+[I]:92404Distinct URL found.
+[I]:10761Duplicate URL found.
+[I]:---------------------------------------------
+[I]:73000 messages read.
+[I]:93652Distinct URL found.
+[I]:10875Duplicate URL found.
+[I]:---------------------------------------------
+[I]:74000 messages read.
+[I]:95032Distinct URL found.
+[I]:11114Duplicate URL found.
+[I]:---------------------------------------------
+[I]:75000 messages read.
+[I]:96086Distinct URL found.
+[I]:11290Duplicate URL found.
+[I]:---------------------------------------------
+[I]:76000 messages read.
+[I]:97777Distinct URL found.
+[I]:11500Duplicate URL found.
+[I]:---------------------------------------------
+[I]:77000 messages read.
+[I]:99007Distinct URL found.
+[I]:11794Duplicate URL found.
+[I]:---------------------------------------------
+[I]:78000 messages read.
+[I]:100365Distinct URL found.
+[I]:12081Duplicate URL found.
+[I]:---------------------------------------------
+[I]:79000 messages read.
+[I]:101671Distinct URL found.
+[I]:12316Duplicate URL found.
+[I]:---------------------------------------------
+[I]:80000 messages read.
+[I]:103039Distinct URL found.
+[I]:12442Duplicate URL found.
+[I]:---------------------------------------------
+[I]:81000 messages read.
+[I]:104203Distinct URL found.
+[I]:12607Duplicate URL found.
+[I]:---------------------------------------------
+[I]:82000 messages read.
+[I]:105660Distinct URL found.
+[I]:12735Duplicate URL found.
+[I]:---------------------------------------------
+[I]:83000 messages read.
+[I]:106709Distinct URL found.
+[I]:12938Duplicate URL found.
+[I]:---------------------------------------------
+[I]:84000 messages read.
+[I]:107768Distinct URL found.
+[I]:13092Duplicate URL found.
+[I]:---------------------------------------------
+[I]:85000 messages read.
+[I]:108736Distinct URL found.
+[I]:13256Duplicate URL found.
+[I]:---------------------------------------------
+[I]:86000 messages read.
+[I]:109537Distinct URL found.
+[I]:13421Duplicate URL found.
+[I]:---------------------------------------------
+[I]:87000 messages read.
+[I]:110315Distinct URL found.
+[I]:13595Duplicate URL found.
+[I]:---------------------------------------------
+[I]:88000 messages read.
+[I]:111366Distinct URL found.
+[I]:13956Duplicate URL found.
+[I]:---------------------------------------------
+[I]:89000 messages read.
+[I]:112244Distinct URL found.
+[I]:14114Duplicate URL found.
+[I]:---------------------------------------------
+[I]:90000 messages read.
+[I]:113015Distinct URL found.
+[I]:14220Duplicate URL found.
+[I]:---------------------------------------------
+[I]:91000 messages read.
+[I]:113847Distinct URL found.
+[I]:14409Duplicate URL found.
+[I]:---------------------------------------------
+[I]:92000 messages read.
+[I]:114607Distinct URL found.
+[I]:14461Duplicate URL found.
+[I]:---------------------------------------------
+[I]:93000 messages read.
+[I]:115642Distinct URL found.
+[I]:14592Duplicate URL found.
+[I]:---------------------------------------------
+[I]:94000 messages read.
+[I]:116617Distinct URL found.
+[I]:14872Duplicate URL found.
+[I]:---------------------------------------------
+[I]:95000 messages read.
+[I]:117500Distinct URL found.
+[I]:14985Duplicate URL found.
+[I]:---------------------------------------------
+[I]:96000 messages read.
+[I]:118854Distinct URL found.
+[I]:15065Duplicate URL found.
+[I]:---------------------------------------------
+[I]:97000 messages read.
+[I]:119642Distinct URL found.
+[I]:15141Duplicate URL found.
+[I]:---------------------------------------------
+[I]:98000 messages read.
+[I]:120653Distinct URL found.
+[I]:15295Duplicate URL found.
+[I]:---------------------------------------------
+[I]:99000 messages read.
+[I]:121478Distinct URL found.
+[I]:15515Duplicate URL found.
+[I]:---------------------------------------------
+[I]:100000 messages read.
+[I]:122341Distinct URL found.
+[I]:15636Duplicate URL found.
+[I]:---------------------------------------------
+[I]:101000 messages read.
+[I]:123299Distinct URL found.
+[I]:15813Duplicate URL found.
+[I]:---------------------------------------------
+[I]:102000 messages read.
+[I]:123944Distinct URL found.
+[I]:15951Duplicate URL found.
+[I]:---------------------------------------------
+[I]:103000 messages read.
+[I]:124823Distinct URL found.
+[I]:16106Duplicate URL found.
+[I]:---------------------------------------------
+[I]:104000 messages read.
+[I]:125578Distinct URL found.
+[I]:16224Duplicate URL found.
+[I]:---------------------------------------------
+[I]:105000 messages read.
+[I]:126868Distinct URL found.
+[I]:16447Duplicate URL found.
+[I]:---------------------------------------------
+[I]:106000 messages read.
+[I]:127719Distinct URL found.
+[I]:16618Duplicate URL found.
+[I]:---------------------------------------------
+[I]:107000 messages read.
+[I]:128964Distinct URL found.
+[I]:16799Duplicate URL found.
+[I]:---------------------------------------------
+[I]:108000 messages read.
+[I]:129778Distinct URL found.
+[I]:17050Duplicate URL found.
+[I]:---------------------------------------------
+[I]:109000 messages read.
+[I]:130926Distinct URL found.
+[I]:17363Duplicate URL found.
+[I]:---------------------------------------------
+[I]:110000 messages read.
+[I]:132122Distinct URL found.
+[I]:17717Duplicate URL found.
+[I]:---------------------------------------------
+[I]:111000 messages read.
+[I]:133307Distinct URL found.
+[I]:17978Duplicate URL found.
+[I]:---------------------------------------------
+[I]:112000 messages read.
+[I]:134497Distinct URL found.
+[I]:18193Duplicate URL found.
+[I]:---------------------------------------------
+[I]:113000 messages read.
+[I]:135339Distinct URL found.
+[I]:18392Duplicate URL found.
+[I]:---------------------------------------------
+[I]:114000 messages read.
+[I]:136322Distinct URL found.
+[I]:18830Duplicate URL found.
+[I]:---------------------------------------------
+[I]:115000 messages read.
+[I]:137064Distinct URL found.
+[I]:19021Duplicate URL found.
+[I]:---------------------------------------------
+[I]:116000 messages read.
+[I]:138169Distinct URL found.
+[I]:19252Duplicate URL found.
+[I]:---------------------------------------------
+[I]:117000 messages read.
+[I]:139154Distinct URL found.
+[I]:19423Duplicate URL found.
+[I]:---------------------------------------------
+[I]:118000 messages read.
+[I]:140395Distinct URL found.
+[I]:19755Duplicate URL found.
+[I]:---------------------------------------------
+[I]:119000 messages read.
+[I]:141531Distinct URL found.
+[I]:20136Duplicate URL found.
+[I]:---------------------------------------------
+[I]:120000 messages read.
+[I]:142463Distinct URL found.
+[I]:20393Duplicate URL found.
+[I]:---------------------------------------------
+[I]:121000 messages read.
+[I]:143282Distinct URL found.
+[I]:20599Duplicate URL found.
+[I]:---------------------------------------------
+[I]:122000 messages read.
+[I]:144355Distinct URL found.
+[I]:20919Duplicate URL found.
+[I]:---------------------------------------------
+[I]:123000 messages read.
+[I]:145821Distinct URL found.
+[I]:21210Duplicate URL found.
+[I]:---------------------------------------------
+[I]:124000 messages read.
+[I]:147490Distinct URL found.
+[I]:21402Duplicate URL found.
+[I]:---------------------------------------------
+[I]:125000 messages read.
+[I]:148990Distinct URL found.
+[I]:21610Duplicate URL found.
+[I]:---------------------------------------------
+[I]:126000 messages read.
+[I]:150149Distinct URL found.
+[I]:21906Duplicate URL found.
+[I]:---------------------------------------------
+[I]:127000 messages read.
+[I]:151550Distinct URL found.
+[I]:22122Duplicate URL found.
+[I]:---------------------------------------------
+[I]:128000 messages read.
+[I]:153152Distinct URL found.
+[I]:22352Duplicate URL found.
+[I]:---------------------------------------------
+[I]:129000 messages read.
+[I]:154070Distinct URL found.
+[I]:22583Duplicate URL found.
+[I]:---------------------------------------------
+[I]:130000 messages read.
+[I]:155555Distinct URL found.
+[I]:22879Duplicate URL found.
+[I]:---------------------------------------------
+[I]:131000 messages read.
+[I]:157024Distinct URL found.
+[I]:23016Duplicate URL found.
+[I]:---------------------------------------------
+[I]:132000 messages read.
+[I]:158411Distinct URL found.
+[I]:23098Duplicate URL found.
+[I]:---------------------------------------------
+[I]:133000 messages read.
+[I]:159584Distinct URL found.
+[I]:23278Duplicate URL found.
+[I]:---------------------------------------------
+[I]:134000 messages read.
+[I]:161224Distinct URL found.
+[I]:23794Duplicate URL found.
+[I]:---------------------------------------------
+[I]:135000 messages read.
+[I]:163554Distinct URL found.
+[I]:24174Duplicate URL found.
+[I]:---------------------------------------------
+[I]:136000 messages read.
+[I]:165087Distinct URL found.
+[I]:24446Duplicate URL found.
+[I]:---------------------------------------------
+[I]:137000 messages read.
+[I]:166268Distinct URL found.
+[I]:24656Duplicate URL found.
+[I]:---------------------------------------------
+[I]:138000 messages read.
+[I]:168405Distinct URL found.
+[I]:24821Duplicate URL found.
+[I]:---------------------------------------------
+[I]:139000 messages read.
+[I]:170307Distinct URL found.
+[I]:25235Duplicate URL found.
+[I]:---------------------------------------------
+[I]:140000 messages read.
+[I]:172712Distinct URL found.
+[I]:25536Duplicate URL found.
+[I]:---------------------------------------------
+[I]:141000 messages read.
+[I]:175775Distinct URL found.
+[I]:25851Duplicate URL found.
+[I]:---------------------------------------------
+[I]:142000 messages read.
+[I]:177655Distinct URL found.
+[I]:26075Duplicate URL found.
+[I]:---------------------------------------------
+[I]:143000 messages read.
+[I]:179100Distinct URL found.
+[I]:26389Duplicate URL found.
+[I]:---------------------------------------------
+[I]:144000 messages read.
+[I]:180870Distinct URL found.
+[I]:26516Duplicate URL found.
+[I]:---------------------------------------------
+[I]:145000 messages read.
+[I]:182991Distinct URL found.
+[I]:26742Duplicate URL found.
+[I]:---------------------------------------------
+[I]:146000 messages read.
+[I]:184814Distinct URL found.
+[I]:26954Duplicate URL found.
+[I]:---------------------------------------------
+[I]:147000 messages read.
+[I]:186306Distinct URL found.
+[I]:27181Duplicate URL found.
+[I]:---------------------------------------------
+[I]:148000 messages read.
+[I]:187285Distinct URL found.
+[I]:27298Duplicate URL found.
+[I]:---------------------------------------------
+[I]:149000 messages read.
+[I]:188686Distinct URL found.
+[I]:27429Duplicate URL found.
+[I]:---------------------------------------------
+[I]:150000 messages read.
+[I]:190263Distinct URL found.
+[I]:27550Duplicate URL found.
+[I]:---------------------------------------------
+[I]:151000 messages read.
+[I]:191420Distinct URL found.
+[I]:27859Duplicate URL found.
+[I]:---------------------------------------------
+[I]:152000 messages read.
+[I]:192683Distinct URL found.
+[I]:27984Duplicate URL found.
+[I]:---------------------------------------------
+[I]:153000 messages read.
+[I]:193716Distinct URL found.
+[I]:28147Duplicate URL found.
+[I]:---------------------------------------------
+[I]:154000 messages read.
+[I]:195118Distinct URL found.
+[I]:28335Duplicate URL found.
+[I]:---------------------------------------------
+[I]:155000 messages read.
+[I]:196210Distinct URL found.
+[I]:28472Duplicate URL found.
+[I]:---------------------------------------------
+[I]:156000 messages read.
+[I]:197462Distinct URL found.
+[I]:28785Duplicate URL found.
+[I]:---------------------------------------------
+[I]:157000 messages read.
+[I]:198793Distinct URL found.
+[I]:29067Duplicate URL found.
+[I]:---------------------------------------------
+[I]:158000 messages read.
+[I]:200093Distinct URL found.
+[I]:29387Duplicate URL found.
+[I]:---------------------------------------------
+[I]:159000 messages read.
+[I]:201415Distinct URL found.
+[I]:29620Duplicate URL found.
+[I]:---------------------------------------------
+[I]:160000 messages read.
+[I]:202745Distinct URL found.
+[I]:29800Duplicate URL found.
+[I]:---------------------------------------------
+[I]:161000 messages read.
+[I]:204156Distinct URL found.
+[I]:30048Duplicate URL found.
+[I]:---------------------------------------------
+[I]:162000 messages read.
+[I]:205384Distinct URL found.
+[I]:30336Duplicate URL found.
+[I]:---------------------------------------------
+[I]:163000 messages read.
+[I]:206915Distinct URL found.
+[I]:30623Duplicate URL found.
+[I]:---------------------------------------------
+[I]:164000 messages read.
+[I]:209375Distinct URL found.
+[I]:30751Duplicate URL found.
+[I]:---------------------------------------------
+[I]:165000 messages read.
+[I]:211653Distinct URL found.
+[I]:30901Duplicate URL found.
+[I]:---------------------------------------------
+[I]:166000 messages read.
+[I]:213249Distinct URL found.
+[I]:31174Duplicate URL found.
+[I]:---------------------------------------------
+[I]:167000 messages read.
+[I]:214698Distinct URL found.
+[I]:31315Duplicate URL found.
+[I]:---------------------------------------------
+[I]:168000 messages read.
+[I]:216134Distinct URL found.
+[I]:31608Duplicate URL found.
+[I]:---------------------------------------------
+[I]:169000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:170000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:171000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:172000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:173000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:174000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:175000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:176000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:177000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:178000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:179000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:180000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:181000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:182000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:183000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:184000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:185000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:186000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:187000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:188000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:189000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:190000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:191000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:192000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:193000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:194000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:195000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:196000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:197000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:198000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:199000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:200000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:201000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:202000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:203000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:204000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:205000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:206000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:207000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:208000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:209000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:210000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:211000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:212000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:213000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:214000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:215000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:216000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:217000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:218000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:219000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:220000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:221000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:222000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:223000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:224000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:225000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:226000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:227000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:228000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:229000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:230000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:231000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:232000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:233000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:234000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:235000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:236000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:237000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:238000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:239000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:240000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:241000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:242000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:243000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:244000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:245000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:246000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:247000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:248000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:249000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:250000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:251000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:252000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:253000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:254000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:255000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:256000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:257000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:258000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:259000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:260000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:261000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:262000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:263000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:264000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:265000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:266000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:267000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:268000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:269000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:270000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:271000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:272000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:273000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:274000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:275000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:276000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:277000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:278000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:279000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:280000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:281000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:282000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:283000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:284000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:285000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:286000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:287000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:288000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:289000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:290000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:291000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:292000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:293000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:294000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:295000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:296000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:297000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:298000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:299000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:300000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:301000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:302000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:303000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:304000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:305000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:306000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:307000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:308000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:309000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:310000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:311000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:312000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:313000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:314000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:315000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:316000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:317000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:318000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:319000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:320000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:321000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:322000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:323000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:324000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:325000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:326000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:327000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:328000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:329000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:330000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:331000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:332000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:333000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:334000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:335000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:336000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:337000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:338000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:339000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:340000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:341000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:342000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:343000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:344000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:345000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:346000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:347000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:348000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:349000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:350000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:351000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:352000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:353000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:354000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:355000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:356000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:357000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:358000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:359000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:360000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:361000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:362000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:363000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:364000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:365000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:366000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:367000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:368000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:369000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:370000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:371000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:372000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:373000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:374000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:375000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:376000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:377000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:378000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:379000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:380000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:381000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:382000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:383000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:384000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:385000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:386000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:387000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:388000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:389000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:390000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:391000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:392000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:393000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:394000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:395000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:396000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:397000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:398000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:399000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:400000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:401000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:402000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:403000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:404000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:405000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:406000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:407000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:408000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:409000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:410000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:411000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:412000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:413000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:414000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:415000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:416000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:417000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:418000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:419000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:420000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:421000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:422000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:423000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:424000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:425000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:426000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:427000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:428000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:429000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:430000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:431000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:432000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:433000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:434000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:435000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:436000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:437000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:438000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:439000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:440000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.
+[I]:---------------------------------------------
+[I]:441000 messages read.
+[I]:217059Distinct URL found.
+[I]:31909Duplicate URL found.

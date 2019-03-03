@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -i sz-curl	a.pem ubuntu@$1 "java -jar /home/ubuntu/curla/spam-url/dist/CurlaFetcher.jar $2 &" &

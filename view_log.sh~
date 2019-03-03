@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -i sz-curla.pem ubuntu@$1 "cat /home/ubuntu/curla.log"
