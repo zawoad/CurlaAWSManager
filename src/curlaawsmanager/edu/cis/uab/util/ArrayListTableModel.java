@@ -1,14 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 package curlaawsmanager.edu.cis.uab.util;
 
-/**
- *
- * @author suchok
- */
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -61,11 +54,6 @@ public class ArrayListTableModel extends AbstractTableModel {
 
   public ArrayListTableModel(String[] columns, ArrayList data)
   {
-//      columnNames = new String[ columns.length ];
-//
-//    for(int i = 0; i < columns.length; i++) {
-//      columnNames [ i ] = new String(columns [ i ]);
-//    }
 
       columnNames = columns;
 
@@ -74,11 +62,6 @@ public class ArrayListTableModel extends AbstractTableModel {
 
   public ArrayListTableModel(String[] columns, ArrayList data, HashSet editebleCells)
   {
-//      columnNames = new String[ columns.length ];
-//
-//    for(int i = 0; i < columns.length; i++) {
-//      columnNames [ i ] = new String(columns [ i ]);
-//    }
 
       columnNames = columns;
 
